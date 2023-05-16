@@ -14,7 +14,7 @@ include = ["**/*.rs", "Cargo.toml"]
 
 [dependencies]
 gl = "0.14"
-glfw = "0.45"
+glfw = "0.51"
 egui = "0.19"
 
 [dependencies.clipboard]
